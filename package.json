@@ -1,0 +1,13 @@
+{
+  "name": "bun-server",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@legit-sdk/core": "^0.2.4"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
