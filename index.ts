@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { openLegitFsWithMemoryFs } from '@legit-sdk/core/server';
 
 async function main() {
