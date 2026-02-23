@@ -1,6 +1,6 @@
 # bun-server
 
-To install dependencies: s
+To install dependencies: so wo wird jetzt ein PR aufgemacht
 
 
 ```bash
