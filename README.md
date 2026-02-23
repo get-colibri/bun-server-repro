@@ -1,12 +1,14 @@
 # bun-server
 
-To install dependencies:
+To install dependencies: s
+
 
 ```bash
 bun install
 ```
 
 To run:
+
 
 ```bash
 bun run index.ts
